@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [机器学习西瓜书](README.md)
 * [1](1.md)
 * [2](2.md)
 * [2.6](2.6.md)
